@@ -1,5 +1,6 @@
 joblib
-scikit - learn 
+scikit-learn 
 numpy
 seaborn
 matplotib
+pandas
